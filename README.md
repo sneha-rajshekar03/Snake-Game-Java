@@ -1,11 +1,25 @@
-echo # Snake Game Java >> README.md
-echo A simple Snake Game built with Java Swing. >> README.md
-echo. >> README.md
-echo ## 🎮 Features: >> README.md
-echo - Classic Snake gameplay >> README.md
-echo - Score tracking >> README.md
-echo - Adjustable speed >> README.md
-echo. >> README.md
-echo ## 🛠️ How to Run: >> README.md
-echo 1. Open the project in Eclipse >> README.md
-echo 2. Run the main class >> README.md
+# 🐍 Snake Game (Java Swing)
+
+A fun, classic **Snake Game** built using Java Swing.  
+Navigate the snake, eat food, and try not to collide with yourself or the walls!  
+Perfect for learning **Java GUI programming** and basic game loops.
+
+---
+
+##  Features
+- Smooth snake movement using keyboard controls
+- Food spawning at random locations
+- Score tracking
+- Game Over screen
+- Adjustable speed & grid size (optional to tweak)
+
+---
+
+##  Technologies Used
+- **Java** (JDK 8+)
+- **Swing** for the GUI
+- **AWT** for graphics
+
+---
+
+
